@@ -99,10 +99,5 @@ dataset/
 
 ---
 
-## 📞 Contact  
-For queries or collaboration:  
-**Sarthak Pandit**
-
----
 
 ## ⭐ If you like this project, give it a star on GitHub!
