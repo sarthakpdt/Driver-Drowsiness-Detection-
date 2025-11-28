@@ -68,13 +68,6 @@ Automatically saved as:
 outputs/loss_curve.png
 ```
 
----
-
-## 🖼 Sample Training Graphs  
-(Add screenshots here)
-
----
-
 ## 📁 Dataset
 You can find the dataset link in the report organize the  dataset like this:
 ```
